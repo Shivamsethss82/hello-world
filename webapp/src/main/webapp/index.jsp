@@ -30,8 +30,8 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
-   <h1> THANKYOU, FOR HAPPY LEARNING.. </h1>
+	<marquee width="60%" direction="up" height="100px">
+<h1> THANKYOU, FOR HAPPY LEARNING.. </h1> </marquee>
 
   
 </form>
