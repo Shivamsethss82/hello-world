@@ -31,5 +31,4 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 	<marquee width="60%" direction="right" height="100px">
-<h1> THANKYOU, FOR HAPPY LEARNING WITH SETH.. </h1> </marquee>
-	<h1>Thanks All Guysssss!</h1>
+	<h1>Thanks All Guys !</h1>
