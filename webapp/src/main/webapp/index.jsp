@@ -32,6 +32,6 @@
   </div>
   <br>
   <div class="container" >
-<h1>Thanks For Register in Devops. !</h1>
+<h1>SHIVAM SETH,is Register in Devops. !</h1>
   </div>
 	
