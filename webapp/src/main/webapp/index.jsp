@@ -30,6 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+  <br>
   <div class="container" >
 <h1>Thanks For Register in Devops. !</h1>
   </div>
