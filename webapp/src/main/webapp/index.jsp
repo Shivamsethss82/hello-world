@@ -30,5 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-	<marquee width="60%" direction="right" height="100px">
-	<h1>Thanks All Guys !</h1>
+  <div class="container" >
+<h1>Thanks For Register in Devops. !</h1>
+  </div>
+	
