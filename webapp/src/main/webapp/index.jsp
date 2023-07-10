@@ -196,7 +196,7 @@
   </head>
   <body>
     <form action="/action_page.php">
-      <h1>SIGN UP</h1>
+      <h1>SIGN UP, SHIVAM SETH</h1>
       <div class="icon">
         <i class="fas fa-user-circle"></i>
       </div>
